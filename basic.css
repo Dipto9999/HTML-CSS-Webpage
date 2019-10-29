@@ -1,0 +1,66 @@
+/*This is the external css file for index.html*/
+
+/*This rule set contains the format for the body of the webpage.*/
+body
+{
+background-image: url('Images/Basic_Green.jpeg');
+background-repeat: no-repeat;
+background-size: 100% 100%;
+}
+
+/*This rule set contains the format only for the topmost heading in the hierarchical heading structure.*/
+h1
+{
+text-align: center;
+font-family: Arial, sans-serif;
+font-size: 35px;
+}
+
+
+h2
+{
+font-family: Arial, sans-serif;
+font-size: 28px;
+}
+
+h3
+{
+padding-top: 75px;
+font-family: Arial, sans-serif;
+font-size: 22px;
+}
+
+/*This rule set contains the basic format for each paragraph.*/
+p
+{
+font-family: Arial, sans-serif;
+font-size: 18px;
+}
+
+/*The following rule set will apply to the Photo Credits and Sources of Information.*/
+#Photo_Credits_And_Sources
+{
+font-family: Arial, sans-serif;
+font-size: 14px;
+}
+
+.Zelda_Logo
+{
+float: right;
+}
+
+.Ravio_Shop
+{
+float: left;
+}	
+
+.Game_Development
+{
+text-align: center;
+}
+
+.Internal_Link
+{
+font-family: Arial, sans-serif;
+font-size: 19px;
+}
