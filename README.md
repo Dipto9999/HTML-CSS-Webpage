@@ -5,4 +5,4 @@ A webpage on The Legend of Zelda video game series created using HTML and CSS, a
 Javascript alerts.
 
 ## Webpage Preview
-<p align="center"><img src="Images/Webpage_Preview.jpg" width="60%" height="60%" title="Preview of Webpage" ></p>
+<p align="center"><img src="Images/Webpage_Preview.JPG" width="60%" height="60%" title="Preview of Webpage" ></p>
